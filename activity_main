@@ -14,7 +14,7 @@
         android:layout_marginTop="50dp"
         android:layout_weight="5"
         android:scaleType="centerCrop"
-        android:src="@drawable/bigdog" />
+        android:src="@drawable/dogbed" />
 
     <TextView
         android:id="@+id/Company_name1"
